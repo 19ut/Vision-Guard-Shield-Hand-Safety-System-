@@ -3,6 +3,7 @@
 The Vision Guard Shield is a safety system designed to prevent industrial hand injuries using computer vision and machine learning. It integrates cameras and microcontrollers for real-time movement detection and gesture recognition, ensuring enhanced safety in industrial environments.
 
 **Features**
+<br>
 Real-Time Detection: Utilizes Python-based computer vision to detect hand movements and gestures.
 Safety Alerts: Provides instant alerts to prevent accidents.
 Easy Integration: Compatible with existing industrial systems.
