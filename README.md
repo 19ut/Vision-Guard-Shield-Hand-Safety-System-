@@ -15,3 +15,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/19ut/Vision-Guard-Shield-Hand-Safety-System-.git
 cd Vision-Guard-Shield-Hand-Safety-System-
+
+Set up the environment:
+```bash
+conda create -n hand python=3.6 -y
+conda activate hand
+pip install -r requirements.txt
+**Run the hand detection script:**
+python hand_detection.py
